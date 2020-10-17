@@ -1,5 +1,6 @@
 #!/usr/bin/python2.7
 # -*- coding: utf-8 -*-
+#RECODE JANGAN HAPUS AUTHOR YA ANJENK !
 #Author D4RK5H4D0W5
 G = '\033[0;32m'
 C = '\033[0;36m'
