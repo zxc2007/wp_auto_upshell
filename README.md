@@ -1,4 +1,4 @@
-# Wordpress Auto Upload Shell in plugins
+# Wordpress Auto Upload Shell in plugin
 ![IMG_20201012_175906](https://user-images.githubusercontent.com/65480013/96328235-d3261c00-106a-11eb-8052-89198216154d.jpg)
 # Author
 ```
